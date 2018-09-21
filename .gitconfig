@@ -1,7 +1,7 @@
 [user]
 	name = Markus Thömmes
-    email = markus.thoemmes@de.ibm.com
+    email = markusthoemmes@me.com
 [push]
-    default = matching
+    default = current
 [core]
     excludesfile = ~/.gitignore
