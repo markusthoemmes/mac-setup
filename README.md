@@ -22,7 +22,7 @@ source <(curl -s https://raw.githubusercontent.com/markusthoemmes/mac-setup/mast
 ## Install VSCode extensions
 
 ```bash
-code --install-extension ms-vscode.Go timonwong.shellcheck akamud.vscode-theme-onedark
+code --install-extension ms-vscode.Go timonwong.shellcheck akamud.vscode-theme-onedark ms-python.python PeterJausovec.vscode-docker
 ```
 
 ## Knative specific:
