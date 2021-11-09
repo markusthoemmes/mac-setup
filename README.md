@@ -54,7 +54,7 @@ Open the app and follow the setup instructions. Enable autostart.
 
 ## Moom
 
-Open the app. Launch automatically on login. Run as menu bar application. Enable full screen grid with 12x8 cells.
+Open the app. Launch automatically on login. Run as menu bar application. Enable full screen grid with 16x8 cells.
 
 ## VSCode
 
