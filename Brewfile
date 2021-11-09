@@ -24,7 +24,6 @@ cask "firefox"
 cask "iterm2"
 cask "slack"
 cask "textual"
-cask "timing"
 cask "visual-studio-code"
 cask "vlc"
 mas "1Password 7", id: 1333542190
