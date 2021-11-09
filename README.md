@@ -36,10 +36,30 @@ $ brew bundle
 
 ## 1Password
 
-Open the app and follow the login instructions.
+Open the app and follow the login instructions. Enable autostart.
 
-## Install VSCode extensions
+## Timing
+
+Open the app and follow the setup instructions. Enable autostart.
+
+## Github
+
+1. Go to https://github.com/settings/keys
+2. Follow the instructions at https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+3. Add `~/.gitconfig`
+
+## Moom
+
+Open the app. Launch automatically on login. Run as menu bar application. Enable full screen grid with 8x6 cells.
+
+## VSCode
 
 ```bash
-code --install-extension akamud.vscode-theme-onelight golang.go ms-azuretools.vscode-docker oderwat.indent-rainbow timonwong.shellcheck
+code --install-extension akamud.vscode-theme-onelight
+code --install-extension golang.go
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension oderwat.indent-rainbow
+code --install-extension timonwong.shellcheck
 ```
+
+Open the app. Enable the installed theme.
