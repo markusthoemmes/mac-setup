@@ -40,7 +40,7 @@ Open the app and follow the login instructions. Enable autostart.
 
 ## Firefox
 
-Install 1Password and uBlock Origin extensions.
+Open the app and make default browser. Install 1Password and uBlock Origin extensions.
 
 ## Timing
 
@@ -54,7 +54,7 @@ Open the app and follow the setup instructions. Enable autostart.
 
 ## Moom
 
-Open the app. Launch automatically on login. Run as menu bar application. Enable full screen grid with 8x6 cells.
+Open the app. Launch automatically on login. Run as menu bar application. Enable full screen grid with 12x8 cells.
 
 ## VSCode
 
@@ -66,7 +66,7 @@ code --install-extension oderwat.indent-rainbow
 code --install-extension timonwong.shellcheck
 ```
 
-Open the app. Enable the installed theme.
+Open the app. Enable the installed theme. Change font-size to 14pt.
 
 ## Things
 
