@@ -12,6 +12,10 @@ Turn off all of the iCloud features except Calendars, Notes and Find My Mac.
 source <(curl -s https://raw.githubusercontent.com/markusthoemmes/mac-setup/master/.macos)
 ```
 
+## Install US International Keyboard layout
+
+https://www.twam.info/hardware/us-international-on-os-x
+
 ## Install homebrew
 
 https://brew.sh/
