@@ -12,4 +12,4 @@ export PATH=$PATH:$GOPATH/bin
 #####
 
 alias git=hub
-alias grm="git rebase master"
+alias grm="git rebase main"
