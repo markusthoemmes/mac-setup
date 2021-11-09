@@ -38,6 +38,10 @@ $ brew bundle
 
 Open the app and follow the login instructions. Enable autostart.
 
+## Firefox
+
+Install 1Password and uBlock Origin extensions.
+
 ## Timing
 
 Open the app and follow the setup instructions. Enable autostart.
@@ -63,3 +67,7 @@ code --install-extension timonwong.shellcheck
 ```
 
 Open the app. Enable the installed theme.
+
+## Things
+
+Open the app. Login to Things Cloud.
