@@ -2,10 +2,8 @@
 # PATH CHANGES
 #####
 
-export PATH=$PATH:/usr/local/opt/go/libexec/bin
-
-export GOPATH=~/go
-export PATH=$PATH:$GOPATH/bin
+export PATH="/usr/local/opt/openjdk/bin:$PATH"
+export PATH="$(go env GOPATH)/bin:$PATH"
 
 #####
 # GIT
