@@ -46,10 +46,6 @@ Open the app and follow the login instructions. Enable autostart.
 
 Open the app and make default browser. Install 1Password and uBlock Origin extensions.
 
-## Timing
-
-Install from https://updates.timingapp.com/download/Timing-2021.3.dmg (last update viable in License). Open the app and follow the setup instructions. Enable autostart.
-
 ## Github
 
 1. Go to https://github.com/settings/keys
