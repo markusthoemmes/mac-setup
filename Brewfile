@@ -25,6 +25,7 @@ cask "firefox"
 cask "google-chrome"
 cask "iterm2"
 cask "slack"
+cask "spotify"
 cask "textual"
 cask "visual-studio-code"
 cask "vlc"
@@ -32,6 +33,7 @@ mas "1Password 7", id: 1333542190
 mas "Affinity Designer", id: 824171161
 mas "Affinity Photo", id: 824183456
 mas "Amphetamine", id: 937984704
+mas "GarageBand", id: 682658836
 mas "Keynote", id: 409183694
 mas "Moom", id: 419330170
 mas "Numbers", id: 409203825
