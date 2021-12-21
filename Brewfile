@@ -4,6 +4,7 @@ tap "homebrew/core"
 brew "asciinema"
 brew "bash"
 brew "bat"
+brew "crane"
 brew "git"
 brew "git-delta"
 brew "python@3.9"
@@ -14,6 +15,7 @@ brew "openjdk"
 brew "gradle"
 brew "htop"
 brew "hub"
+brew "imagemagick"
 brew "kubernetes-cli"
 brew "mas"
 brew "node"
@@ -28,7 +30,6 @@ cask "google-chrome"
 cask "iterm2"
 cask "slack"
 cask "spotify"
-cask "textual"
 cask "visual-studio-code"
 cask "vlc"
 mas "1Password 7", id: 1333542190
@@ -40,5 +41,6 @@ mas "Keynote", id: 409183694
 mas "Moom", id: 419330170
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
+mas "Textual IRC Client", id: 1262957439
 mas "The Unarchiver", id: 425424353
 mas "Things", id: 904280696
