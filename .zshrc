@@ -12,5 +12,6 @@ alias git=hub
 alias grm="git rebase main"
 alias gst="git status"
 alias gd="git diff"
+alias ggp="git push"
 
 eval "$(starship init zsh)"

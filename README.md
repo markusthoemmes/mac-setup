@@ -55,4 +55,5 @@ Open the app. Login to Things Cloud.
 
 1. Override starship config: `cp configs/starship/starship.toml ~/.config/starship.toml`
 2. Override ghostty config via the UI settings.
-3. Override VSCode config via the UI settings.
+3. Override git config: `cp configs/git/.gitconfig ~/.gitconfig`
+4. Override VSCode config via the UI settings.
