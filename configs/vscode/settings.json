@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Atom One Light",
+    "editor.fontSize": 14,
+    "explorer.confirmDelete": false,
+    "go.toolsManagement.autoUpdate": true,
+    "extensions.ignoreRecommendations": true,
+    "shellcheck.customArgs": [
+        "-x"
+    ],
+    "go.disableConcurrentTests": true,
+    "git.openRepositoryInParentFolders": "never",
+    "go.testTimeout": "90s",
+    "editor.fontFamily": "Monaspace Neon, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontVariations": "'wght' 350",
+    "editor.fontLigatures": "'calt', 'liga'"
+}

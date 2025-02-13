@@ -20,11 +20,6 @@ https://www.twam.info/hardware/us-international-on-os-x
 
 https://brew.sh/
 
-
-## Install oh-my-zsh
-
-https://github.com/robbyrussell/oh-my-zsh#basic-installation
-
 ## Install all software
 
 ```
@@ -42,10 +37,6 @@ $ brew bundle
 
 Open the app and follow the login instructions. Enable autostart.
 
-## Firefox
-
-Open the app and make default browser. Install 1Password and uBlock Origin extensions.
-
 ## Github
 
 1. Go to https://github.com/settings/keys
@@ -56,18 +47,12 @@ Open the app and make default browser. Install 1Password and uBlock Origin exten
 
 Open the app. Launch automatically on login. Run as menu bar application. Enable full screen grid with 16x8 cells.
 
-## VSCode
-
-```bash
-code --install-extension akamud.vscode-theme-onelight
-code --install-extension golang.go
-code --install-extension ms-azuretools.vscode-docker
-code --install-extension oderwat.indent-rainbow
-code --install-extension timonwong.shellcheck
-```
-
-Open the app. Enable the installed theme. Change font-size to 14pt.
-
 ## Things
 
 Open the app. Login to Things Cloud.
+
+## Settings
+
+1. Override starship config: `cp configs/starship/starship.toml ~/.config/starship.toml`
+2. Override ghostty config via the UI settings.
+3. Override VSCode config via the UI settings.

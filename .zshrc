@@ -2,7 +2,6 @@
 # PATH CHANGES
 #####
 
-export PATH="/usr/local/opt/openjdk/bin:$PATH"
 export PATH="$(go env GOPATH)/bin:$PATH"
 
 #####
@@ -11,3 +10,7 @@ export PATH="$(go env GOPATH)/bin:$PATH"
 
 alias git=hub
 alias grm="git rebase main"
+alias gst="git status"
+alias gd="git diff"
+
+eval "$(starship init zsh)"
