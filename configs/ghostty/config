@@ -1,3 +1,5 @@
 copy-on-select = clipboard
 font-family = "Monaspace Neon Var"
+font-variation = "wght=350"
 font-feature = "'calt', 'liga'"
+theme = catppuccin-mocha
