@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Atom One Light",
+    "workbench.colorTheme": "Catppuccin Mocha",
     "editor.fontSize": 14,
     "explorer.confirmDelete": false,
     "go.toolsManagement.autoUpdate": true,
@@ -12,5 +12,7 @@
     "go.testTimeout": "90s",
     "editor.fontFamily": "Monaspace Neon, Menlo, Monaco, 'Courier New', monospace",
     "editor.fontVariations": "'wght' 350",
-    "editor.fontLigatures": "'calt', 'liga'"
+    "editor.fontLigatures": "'calt', 'liga'",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "catppuccin.italicKeywords": false
 }

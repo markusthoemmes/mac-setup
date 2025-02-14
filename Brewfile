@@ -31,7 +31,8 @@ mas "Moom", id: 419330170
 mas "Textual IRC Client", id: 1262957439
 mas "The Unarchiver", id: 425424353
 mas "Things", id: 904280696
-vscode "akamud.vscode-theme-onelight"
+vscode "Catppuccin.catppuccin-vsc"
+vscode "Catppuccin.catppuccin-vsc-icons"
 vscode "golang.go"
 vscode "oderwat.indent-rainbow"
 vscode "timonwong.shellcheck"
