@@ -18,3 +18,4 @@ alias gcm="git checkout master"
 
 eval "$(starship init zsh)"
 source <(fzf --zsh)
+eval "$(zoxide init zsh)"
