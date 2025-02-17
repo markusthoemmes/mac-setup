@@ -13,6 +13,6 @@
     "editor.fontFamily": "Monaspace Neon, Menlo, Monaco, 'Courier New', monospace",
     "editor.fontVariations": "'wght' 350",
     "editor.fontLigatures": "'calt', 'liga'",
-    "workbench.iconTheme": "catppuccin-mocha",
+    "workbench.iconTheme": "catppuccin-frappe",
     "catppuccin.italicKeywords": false
 }
