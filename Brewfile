@@ -27,13 +27,14 @@ cask "ghostty"
 cask "google-chrome"
 cask "visual-studio-code"
 cask "vlc"
+cask "the-unarchiver"
+cask "textual"
 mas "Amphetamine", id: 937984704
 mas "Moom", id: 419330170
-mas "Textual IRC Client", id: 1262957439
-mas "The Unarchiver", id: 425424353
 mas "Things", id: 904280696
-vscode "Catppuccin.catppuccin-vsc"
+vscode "aleksandra.go-group-imports"
 vscode "Catppuccin.catppuccin-vsc-icons"
+vscode "Catppuccin.catppuccin-vsc"
 vscode "golang.go"
 vscode "oderwat.indent-rainbow"
 vscode "timonwong.shellcheck"
